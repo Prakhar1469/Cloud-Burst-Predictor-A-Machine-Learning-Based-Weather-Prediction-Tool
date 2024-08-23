@@ -1,0 +1,1 @@
+This project focuses on predicting cloudbursts using machine learning techniques. It employs Python with Scikit-learn for model building, Pandas and NumPy for data manipulation, and Matplotlib for visualization. Key methods include feature engineering, classification algorithms, and performance evaluation metrics like accuracy, precision, and recall.
